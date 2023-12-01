@@ -78,6 +78,3 @@ Here are some ideas to get you started:
 </div>
 
 -----
-Credits: [Adhitya Hasan](https://github.com/SanH16)
-
-Last Edited on: 09/05/2023
