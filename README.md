@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 | HTML5 | CSS3 | BOOTSTRAP | JavaScript | Java | Phyton | Laravel |
-| ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> |
 
 
