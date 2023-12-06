@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 
 <div align="right">
-    <img width="20%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+    <img width="20%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 -----
