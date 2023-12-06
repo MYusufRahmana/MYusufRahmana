@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/myusufrhmn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<br>
 <a href = 'https://www.github.com/MYusufRahmana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://www.instagram.com/myusufrhmn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
   
@@ -66,7 +65,7 @@ Here are some ideas to get you started:
 
 
 <div align="right">
-    <img width="20%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+    <img width="40%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </div>
 
 -----
