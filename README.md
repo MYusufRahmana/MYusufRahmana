@@ -62,7 +62,9 @@ Here are some ideas to get you started:
   
 <br>
 <br>
-![SanTech github stats](https://github-readme-stats.vercel.app/api?username=MYusufRahmana&show_icons=true&theme=YOUR_THEME)!
+## Coding Activity
+
+| ![SanTech github stats](https://github-readme-stats.vercel.app/api?username=MYusufRahmana&show_icons=true&theme=tokyonight) |
 
 
 <div align="right">
