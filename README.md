@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <br>
 ## Coding Activity
 
-| ![SanTech github stats](https://github-readme-stats.vercel.app/api?username=MYusufRahmana&show_icons=true&theme=tokyonight) |
+| ![M Yusuf Rahmana github stats](https://github-readme-stats.vercel.app/api?username=MYusufRahmana&show_icons=true&theme=tokyonight) |
 
 
 <div align="right">
