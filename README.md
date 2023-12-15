@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 ## Coding Activity
 
 | ![M Yusuf Rahmana github stats](https://github-readme-stats.vercel.app/api?username=MYusufRahmana&show_icons=true&theme=tokyonight) | ![M Yusuf Rahmana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MYusufRahmana&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYusufRahmana&theme=tokyonight) | 
 
 
 <div align="right">
