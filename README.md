@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at University
   
-- 🌱 I’m currently learning Git, JavaScript, ReactJS
+- 🌱 I’m currently learning python
   
 - 👯 I’m looking to collaborate on Project
   
