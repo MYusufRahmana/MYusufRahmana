@@ -1,71 +1,118 @@
-### Hi there 👋
+<!-- HERO BANNER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=MUHAMAD%20YUSUF&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Full%20Stack%20Software%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
+<!-- ANIMATED TYPING SUBTITLE -->
+<div align="center">
+<a href="https://github.com/MYusufRahmana">
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=23&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%9A%A1+BUILDING+ROBUST+WEB+APPLICATIONS;%F0%9F%9A%80+FULL-STACK+ENGINEER+%26+DATABASE+SPECIALIST;%F0%9F%8E%AC+CONTENT+CREATOR+%26+VIDEO+EDITOR;%E2%9C%A8+BRIDGING+CODE%2C+BUSINESS%2C+AND+CREATIVITY" alt="Typing SVG" />
+</a>
+</div>
 
-**MYusufRahmana/MYusufRahmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<!-- DYNAMIC STATUS TICKER (HORIZONTAL LOOP) -->
+<div align="center">
+<img src="images/status-ticker.svg" width="100%" alt="Status Ticker" />
+<!-- Ganti URL source di atas jika Anda memiliki file SVG ticker animasi tersendiri -->
+</div>
 
-<h1> Welcome My Jurnal < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+<br />
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="65%" valign="top" style="padding-right: 20px;">
+<div style="font-family: 'Google Sans', sans-serif; line-height: 1.7; font-size: 15px;">
+<p>
+Hello! I'm <b>Muhamad Yusuf Rahmana</b>, a <b>Full-Stack Software Developer</b> with a background in Information Systems (S.SI). I specialize in building solid web architectures, managing complex databases, and translating ideas into clean, functional code. 
 </p>
-
-
-
-<div size='20px'> Hi! My name is M Yusuf Rahmana. Thank You for taking the time to view my GitHub Profile :rocket: 
+<p>Beyond coding, I wear multiple hats: from managing culinary businesses to crafting visual stories through YouTube film recaps and AI image generation.
+</p>
+<p>
+🔭 <b>Current Focus:</b> Full-stack web application development and efficient database management.<br />
+🌱 <b>Creative Side:</b> CapCut Pro video editing, AI promotional graphics, and script analysis.<br />
+🎯 <b>Core Principle:</b> Seamless integration between functional backend systems and practical user interfaces.<br />
+💬 <b>Let's Discuss:</b> PHP, Laravel, Python, MySQL, PostgreSQL, & MongoDB.
+</p>
 </div>
-<br>
-<div align="center"><img width=325 src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG44b29mNGN0amhveDR2dzd3bzhidG04YTZxOXVvdmpobHNmbnZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yYfSDRdILeAnx1jhyt/giphy.gif" /></div>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="images/gifprofile.gif" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Developer Profile" />
+<!-- Anda dapat mengganti src="images/gifprofile.gif" dengan URL GIF animasi pilihan Anda -->
+</td>
+</tr>
+</table>
 
-<h2> About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<br />
 
-- 🔭 I’m currently studying at University
-  
-- 🌱 I’m currently learning python
-  
-- 👯 I’m looking to collaborate on Project
-  
-- 💬 I have a huge interest in Frontend Developer
-  
-- ⚡ Fun fact: Jan karl.
+---
 
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="center">📊 GitHub Analytics & Performance</h2>
 
-| HTML5 | CSS3 | BOOTSTRAP | JavaScript | Java | Phyton | Laravel |
-| ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> |
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td width="50%" align="center" valign="middle" style="padding: 6px;">
+<a href="https://github.com/MYusufRahmana">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MYusufRahmana&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&text_color=9E9E9E" height="195" alt="Most Used Languages" />
+</a>
+</td>
+<td width="50%" align="center" valign="middle" style="padding: 6px;">
+<a href="https://github.com/MYusufRahmana">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MYusufRahmana&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&icon_color=BF91F3&text_color=9E9E9E" height="195" alt="GitHub Stats" />
+</a>
+</td>
+</tr>
+</table>
 
+<br />
 
-<h2>Coding Tools</h2>
+---
 
-| GIT  | VS Code | TERMINAL | 
-| ------------- | ------------- |------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
+<h2 align="center">🎮 Contribution Radar</h2>
 
-<h2>Design Tools</h2>
-
-| FIGMA |
-| ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | 
-
-<h2>What I am currently learning</h2>
-
-| GIT | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 | 𝗪𝗘𝗕𝗣𝗔𝗖𝗞 | 
-| ------------- | ------------- |------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/git.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/webpack.svg"> | 
-<br>
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/myusufrhmn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/MYusufRahmana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.instagram.com/myusufrhmn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
-  
-<br>
-<br>
-
-
-<div align="right">
-    <img width="40%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MYusufRahmana/MYusufRahmana/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MYusufRahmana/MYusufRahmana/output/pacman-contribution-graph.svg">
+<img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/MYusufRahmana/MYusufRahmana/output/pacman-contribution-graph.svg" width="100%">
+</picture>
+<!-- Pastikan Anda telah mengonfigurasi GitHub Action (snk) di repositori Anda untuk merender grafik Pacman ini -->
 </div>
 
------
+<br />
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+<p>Interested in tech collaborations, creative content projects, or business discussions? Let's connect!</p>
+
+<p align="center">
+<a href="https://github.com/MYusufRahmana" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/MYusufRahmana" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/myusufrahmana" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" alt="Instagram" />
+</a>
+</p>
+</div>
+
+<br />
+
+<!-- FOOTER -->
+<div align="center">
+<p align="center">
+<b>⚡ Engineered & Crafted with Passion by <a href="https://github.com/MYusufRahmana">@MYusufRahmana</a> © 2026</b>
+</p>
+</div>
