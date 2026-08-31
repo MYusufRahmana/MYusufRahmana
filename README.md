@@ -42,25 +42,32 @@
 <br />
 
 <!-- 🛠️ TECH STACK SECTION (NEW ADDITION) -->
+<!-- 🛠️ TECH STACK SECTION (BASED ON CV) -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
-  <p><b>Languages & Frameworks</b></p>
+  <p><b>Backend & Architecture</b></p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <br><br>
+
+  <p><b>Frontend & Mobile</b></p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <br><br>
   
   <p><b>Databases & Infrastructure</b></p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <br><br>
-  
-  <p><b>Creative & Media</b></p>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <img src="https://img.shields.io/badge/AI_Tools-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tools" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <!-- MinIO tidak memiliki logo resmi yang didukung luas di shields.io, jadi menggunakan tag abu-abu standar -->
+  <img src="https://img.shields.io/badge/MinIO-5A6973?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
 </div>
-
+<br />
 <br />
 
 <!-- 📊 GITHUB ANALYTICS -->
