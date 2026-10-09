@@ -1,122 +1,126 @@
-<!-- HERO BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,38,45&height=240&section=header&text=MUHAMAD%20YUSUF&fontSize=68&fontColor=ffffff&animation=twinkle&fontAlignY=36&desc=Full%20Stack%20Software%20Developer%20%7C%20Creative%20Technologist&descFontSize=20&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
-</div>
+<!-- ========================================================= -->
+<!--                   MUHAMAD YUSUF RAHMANA                    -->
+<!--                    GitHub Profile README                  -->
+<!-- ========================================================= -->
 
-<!-- ANIMATED TYPING SUBTITLE -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=230&section=header&text=Muhamad%20Yusuf%20Rahmana&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Building%20Practical%20Digital%20Solutions&descSize=17&descAlignY=58" width="100%" alt="Profile banner" />
+
   <a href="https://github.com/MYusufRahmana">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=%E2%9A%A1+BUILDING+ROBUST+WEB+APPLICATIONS;%F0%9F%9A%80+FULL-STACK+ENGINEER+%26+DATABASE+SPECIALIST;%F0%9F%8E%AC+CONTENT+CREATOR+%26+VIDEO+EDITOR;%E2%9C%A8+BRIDGING+CODE%2C+BUSINESS%2C+AND+CREATIVITY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&height=48&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+JavaScript+%7C+Go;Turning+Ideas+into+Reliable+Applications;Always+Learning%2C+Always+Building" alt="Animated developer introduction" />
   </a>
+
+  <p>
+    <a href="https://github.com/MYusufRahmana?tab=followers"><img src="https://img.shields.io/github/followers/MYusufRahmana?style=flat-square&color=38BDF8&labelColor=0F172A&label=Followers" alt="GitHub followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=MYusufRahmana&style=flat-square&color=0284C7&label=Profile+Views" alt="Profile views" />
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=flat-square&labelColor=0F172A" alt="Open to collaboration" />
+  </p>
 </div>
 
-<br />
+---
 
-<!-- 👨‍💻 ABOUT ME SECTION -->
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
-    <td width="65%" valign="top" style="padding-right: 20px;">
-      <div style="font-family: 'Google Sans', sans-serif; line-height: 1.6; font-size: 15px;">
-        <p>
-          Hello! I'm <b>Muhamad Yusuf Rahmana</b>, a <b>Full-Stack Software Developer</b> with a background in Information Systems (S.SI). I specialize in building solid web architectures, managing complex databases, and translating ideas into clean, functional code. 
-        </p>
-        <p>
-          Beyond coding, I wear multiple hats: from managing culinary businesses to crafting visual stories through YouTube film recaps and AI image generation.
-        </p>
-        <p>
-          🔭 <b>Current Focus:</b> Full-stack web application development & database management.<br />
-          🌱 <b>Creative Side:</b> CapCut Pro video editing, AI promotional graphics & script analysis.<br />
-          🎯 <b>Core Principle:</b> Seamless integration between functional backend systems and practical user interfaces.
-        </p>
-      </div>
+    <td width="64%" valign="top">
+      <h3>Hi, I'm Yusuf! 👋</h3>
+      <p>
+        I'm an <b>Information Systems graduate</b> and <b>Full-Stack Developer</b> who enjoys translating business requirements into responsive, maintainable, and user-friendly applications.
+      </p>
+      <p>
+        My primary focus is <b>PHP / Laravel</b>, with hands-on experience across frontend development, databases, API integration, and application deployment. I'm also exploring <b>Go, Next.js, and Docker</b> to strengthen my engineering workflow.
+      </p>
+      <p>
+        💻 <b>Building:</b> Business websites, internal systems, dashboards, and APIs<br />
+        🧠 <b>Learning:</b> Backend architecture, scalable systems, and DevOps fundamentals<br />
+        🏅 <b>Certified:</b> BNSP Database Administrator<br />
+        🎨 <b>Beyond code:</b> UI/UX, content creation, and visual storytelling
+      </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <!-- Pastikan file gifprofile.gif sudah diupload ke dalam folder 'images' di repository Anda -->
-      <img src="images/gifprofile.gif" width="100%" style="border-radius: 12px; border: 1px solid #30363d;" alt="Developer Profile" />
+    <td width="36%" align="center" valign="middle">
+      <img src="images/gifprofile.gif" width="260" alt="Developer animation" />
+      <br />
+      <sub><i>Code • Create • Improve</i></sub>
     </td>
   </tr>
 </table>
 
-<br />
+<h2 align="center">Tech Stack & Tools</h2>
 
-<!-- 🛠️ TECH STACK SECTION (NEW ADDITION) -->
-<!-- 🛠️ TECH STACK SECTION (BASED ON CV) -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
-  <p><b>Backend & Architecture</b></p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
-  <br><br>
+  <h3>Backend & APIs</h3>
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,python,nodejs&theme=dark" alt="PHP, Laravel, Go, Python, Node.js" />
 
-  <p><b>Frontend & Mobile</b></p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <br><br>
-  
-  <p><b>Databases & Infrastructure</b></p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <!-- MinIO tidak memiliki logo resmi yang didukung luas di shields.io, jadi menggunakan tag abu-abu standar -->
-  <img src="https://img.shields.io/badge/MinIO-5A6973?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+  <h3>Frontend & Mobile</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nextjs,flutter&theme=dark" alt="HTML, CSS, JavaScript, Tailwind, Bootstrap, React, Next.js, Flutter" />
+
+  <h3>Databases & Cloud</h3>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,nginx&theme=dark" alt="MySQL, PostgreSQL, Firebase, Docker, Nginx" />
+
+  <h3>Development Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark" alt="Git, GitHub, VS Code, Postman, Figma, Linux" />
+  <p><sub>Main stack: Laravel / PHP • MySQL • JavaScript • Tailwind CSS</sub></p>
 </div>
-<br />
-<br />
 
-<!-- 📊 GITHUB ANALYTICS -->
-<h2 align="center">📊 GitHub Analytics & Performance</h2>
+---
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td width="50%" align="center" valign="middle" style="padding: 6px;">
-      <a href="https://github.com/MYusufRahmana">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MYusufRahmana&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&text_color=9E9E9E" height="195" alt="Most Used Languages" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle" style="padding: 6px;">
-      <a href="https://github.com/MYusufRahmana">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=MYusufRahmana&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_radius=12&bg_color=141321&border_color=38BDF8&title_color=70A5FD&icon_color=BF91F3&text_color=9E9E9E" height="195" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-
-<!-- 🌐 CONNECT WITH ME -->
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">What I Build</h2>
 
 <div align="center">
-  <p>Interested in tech collaborations, creative content projects, or business discussions? Let's connect!</p>
-  
-  <p align="center">
-    <a href="https://github.com/MYusufRahmana" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="40" width="40" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/MYusufRahmana" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/myusufrahmana" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" alt="Instagram" />
-    </a>
-  </p>
+
+| 🌐 Web Applications | ⚙️ Backend & APIs | 📊 Internal Systems |
+| :---: | :---: | :---: |
+| Responsive company profiles, public websites, and CMS platforms | REST APIs, authentication, database design, and business logic | Inventory, attendance, reporting, administrative dashboards |
+
+</div>
+
+<h2 align="center">Selected Projects</h2>
+
+| Project | Overview | Technologies |
+| :--- | :--- | :--- |
+| **BBK3 Jakarta Website & PPID** | Public information website, administrative features, and PPID integration | Laravel, Blade, MySQL |
+| **NaunganKita** | Platform concept for managing orphanage and care-home information | Laravel, Go, PostgreSQL |
+| **Inventory Management System** | Asset and inventory administration workflows | Laravel, MySQL |
+| **Corporate Website Projects** | Responsive company profiles and content management | Laravel, Tailwind CSS |
+
+<p align="center">
+  <a href="https://github.com/MYusufRahmana?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MYusufRahmana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYusufRahmana&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" height="170" alt="Most used programming languages" />
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MYusufRahmana&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Contribution streak" />
+</p>
+
+<p align="center"><sub>Statistics depend on public GitHub data and the availability of third-party image services.</sub></p>
+
+---
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">I'm always happy to discuss software development, collaborations, and interesting ideas.</p>
+
+<div align="center">
+  <a href="https://github.com/MYusufRahmana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/MYusufRahmana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/myusufrahmana"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br />
 
-<!-- FOOTER -->
 <div align="center">
-  <p align="center">
-    <b>⚡ Engineered & Crafted with Passion by <a href="https://github.com/MYusufRahmana">@MYusufRahmana</a> © 2026</b>
-  </p>
+  <i>“Build with purpose. Learn with curiosity. Improve every day.”</i>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=95&section=footer" width="100%" alt="Footer wave" />
 </div>
